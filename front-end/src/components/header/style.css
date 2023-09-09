@@ -1,3 +1,13 @@
+@font-face {
+    font-family: "Custom-Font";
+    src: url('../../assets/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 300 800;
+}
+
 header{
+    font-family: "Custom-Font";
     width: 100%;
+    color: white;
+    font-size: 60px;
 }
