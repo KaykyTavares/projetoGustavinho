@@ -6,8 +6,11 @@
 }
 
 header{
-    font-family: "Custom-Font";
     width: 100%;
+}
+
+.header_h1{
+    font-family: "Custom-Font", Arial, Helvetica, sans-serif;
     color: white;
-    font-size: 60px;
+    font-size: 5vh;
 }
