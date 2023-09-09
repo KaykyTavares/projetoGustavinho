@@ -1,8 +1,10 @@
+import './style.css'
+
 function Header() {
     return (
-      <>
-      header
-      </>
+      <header>
+        headers
+      </header>
     )
       
   }
